@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I'm Stan, backend developer from <img src="https://www.flaticon.com/free-icon/poland_4628690" width="13"/> <b>Poznan, Poland</b>
+<p>Welcome to my page! </br> I'm Stan, backend developer from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628690.png" width="13"/> <b>Poznan, Poland</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
