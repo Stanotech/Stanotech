@@ -22,8 +22,8 @@
 <h3>Contact:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/StanDev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](strogala@gmail.com)
-<a href="mailto:strogala@gmail.com">strogala@gmail.com</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strogala@gmail.com)
+
 
 
 - 🌱 I’m currently learning everything Django RestApi
