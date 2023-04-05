@@ -29,6 +29,8 @@
 - 🌱 I’m currently learning everything Django RestApi
 - ⚡ Fun fact: I love extreme sports and coconuts
 
+<h3>PROJECTS</h3>
+
 
 
 <br />
