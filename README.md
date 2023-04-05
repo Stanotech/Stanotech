@@ -25,8 +25,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](strogala@gmail.com)
 
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love extreme sports and coconut
+- 🌱 I’m currently learning everything Django RestApi
+- ⚡ Fun fact: I love extreme sports and coconuts
 
 
 
