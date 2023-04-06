@@ -53,7 +53,7 @@
  <tr>
   <td width="50%">
    <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif"> </img></a>   
- </td>
+  </td>
  <td width="50%">     
   <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif"> </img></a>
  </td>
