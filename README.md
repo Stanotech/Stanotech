@@ -38,11 +38,11 @@
  <tr>
   <td width="50%">
    <a href="https://github.com/Stanotech/Django_blog"><img alt="pong" src="assets/blog.gif"> </img></a>   
- </td>
- <td width="50%">
+  </td>
+  <td width="50%">
   <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif"> </img></a>   
- </td>
-</tr>
+  </td>
+ </tr>
 </table>
 
 <table>
@@ -54,13 +54,11 @@
   <td width="50%">
    <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif"> </img></a>   
   </td>
- <td width="50%">     
-  <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif"> </img></a>
- </td>
+  <td width="50%">     
+   <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif"> </img></a>
+  </td>
 </tr>
 </table>
-
-
 
 <table>
  <tr>
@@ -70,11 +68,11 @@
  <tr>
   <td width="50%">
    <a href="https://github.com/Stanotech/perfection_training_checkio"><img alt="pong" src="assets/checkio.gif"> </img></a> 
- </td>
- <td width="50%">
-  <a href="https://github.com/Stanotech/seam_eraser_gcode"><img alt="pong" src="assets/gcode.jpg"> </img></a> 
- </td>
-</tr>
+  </td>
+  <td width="50%">
+   <a href="https://github.com/Stanotech/seam_eraser_gcode"><img alt="pong" src="assets/gcode.jpg"> </img></a> 
+  </td>
+ </tr>
 </table>
 
 
