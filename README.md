@@ -37,12 +37,10 @@
  </tr>
  <tr>
   <td>
-   <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif" width="100%"> </img></a>
-   
+   <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif" width="100%"> </img></a>   
  </td>
- <td>
-     
-  <img alt="geforce-now" src="assets/pong.gif" width="100%"> </img>
+ <td>     
+  <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/vending machine.gif" width="100%"> </img></a>
  </td>
 </tr>
 </table>
