@@ -32,7 +32,7 @@
 <h3>PROJECTS</h3>
 <table>
  <tr>
-    <th>Dying Light 2</th>
+    <th>Pong Multiplayer Online Game</th>
     <th>GeforceNow</th>
  </tr>
  <tr>
