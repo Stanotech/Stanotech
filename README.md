@@ -45,7 +45,7 @@
  </tr>
 </table>
 
-<table align: center>
+<table class="center">
  <tr>
     <th>Snake game</th>
     <th>Vending machine for courts lights</th>
