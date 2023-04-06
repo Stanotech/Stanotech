@@ -50,7 +50,7 @@
     <th>Snake game</th>
     <th>Vending machine for courts lights</th>
  </tr>
- <tr>
+ <tr width="100%">
   <td width="50%">
    <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif"> </img></a>   
   </td>
