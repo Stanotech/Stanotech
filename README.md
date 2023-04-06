@@ -52,10 +52,10 @@
  </tr>
  <tr>
   <td width="50%">
-   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="50%"> </img></a>   
+   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif"> </img></a>   
  </td>
  <td width="50%">     
-  <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif" width="50%"> </img></a>
+  <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif"> </img></a>
  </td>
 </tr>
 </table>
@@ -68,11 +68,11 @@
     <th>G-code modifier</th>
  </tr>
  <tr>
-  <td>
-   <a href="https://github.com/Stanotech/perfection_training_checkio"><img alt="pong" src="assets/checkio.gif" width="50%"> </img></a> 
+  <td width="50%">
+   <a href="https://github.com/Stanotech/perfection_training_checkio"><img alt="pong" src="assets/checkio.gif"> </img></a> 
  </td>
- <td>
-  <a href="https://github.com/Stanotech/seam_eraser_gcode"><img alt="pong" src="assets/gcode.jpg" width="50%"> </img></a> 
+ <td width="50%">
+  <a href="https://github.com/Stanotech/seam_eraser_gcode"><img alt="pong" src="assets/gcode.jpg"> </img></a> 
  </td>
 </tr>
 </table>
