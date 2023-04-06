@@ -36,11 +36,11 @@
     <th>Pong Multiplayer Online Game</th>
  </tr>
  <tr>
-  <td>
-   <a href="https://github.com/Stanotech/Django_blog"><img alt="pong" src="assets/blog.gif" width="50%"> </img></a>   
+  <td width="50%">
+   <a href="https://github.com/Stanotech/Django_blog"><img alt="pong" src="assets/blog.gif"> </img></a>   
  </td>
- <td>
-  <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif" width="50%"> </img></a>   
+ <td width="50%">
+  <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif"> </img></a>   
  </td>
 </tr>
 </table>
