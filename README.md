@@ -45,7 +45,7 @@
  </tr>
 </table>
 
-<table style="margin-left:auto;margin-right:auto;">
+<table style="margin-left:auto;margin-right:auto;" width="100%">
  <tr>
     <th>Snake game</th>
     <th>Vending machine for courts lights</th>
@@ -74,10 +74,6 @@
   </td>
  </tr>
 </table>
-
-
-
-
 
 <br />
 <br />
