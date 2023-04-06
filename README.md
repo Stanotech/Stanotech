@@ -37,7 +37,7 @@
  </tr>
  <tr>
   <td>
-   <img alt="https://github.com/Stanotech/Pong-multiplayer-online/blob/master/pong.gif" width="100%"> </img>
+   <img alt="/assets.pong.gif" width="100%"> </img>
  </td>
  <td>
   <img alt="geforce-now" src="assets/geforce-now.gif" width="100%"> </img>
