@@ -51,10 +51,10 @@
     <th>Vending machine for courts lights</th>
  </tr>
  <tr style: width="100%">
-  <td width="50%">
+  <td width="60%">
    <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="100%"> </img></a>   
   </td>
-  <td width="70%">     
+  <td width="80%">     
    <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif" width="100%"> </img></a>
   </td>
  </tr>
