@@ -37,7 +37,7 @@
  </tr>
  <tr>
   <td>
-   ![pong](https://user-images.githubusercontent.com/48159338/230331303-1aeafec2-e530-4a37-bb8e-d3386a1040a9.gif)
+   <img alt="https://user-images.githubusercontent.com/48159338/230331303-1aeafec2-e530-4a37-bb8e-d3386a1040a9.gif" width="100%"> </img>
  </td>
  <td>
   <img alt="geforce-now" src="assets/geforce-now.gif" width="100%"> </img>
