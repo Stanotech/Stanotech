@@ -40,7 +40,7 @@
    <img alt="/assets.pong.gif" width="100%"> </img>
  </td>
  <td>
-  <img alt="geforce-now" src="assets/geforce-now.gif" width="100%"> </img>
+  <img alt="geforce-now" src="assets/pong.gif" width="100%"> </img>
  </td>
 </tr>
 </table>
