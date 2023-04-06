@@ -50,12 +50,12 @@
     <th>Snake game</th>
     <th>Vending machine for courts lights</th>
  </tr>
- <tr style: width="120%">
+ <tr style: width="100%">
   <td width="50%">
-   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="100%"> </img></a>   
+   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="110%"> </img></a>   
   </td>
   <td width="70%">     
-   <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif" width="100%"> </img></a>
+   <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif" width="110%"> </img></a>
   </td>
  </tr>
 </table>
