@@ -45,7 +45,7 @@
  </tr>
 </table>
 
-<div style="width:800px; margin:0 auto;">
+<div style="margin:0 auto">
 <table style="margin:0 auto;">
  <tr>
     <th>Snake game</th>
