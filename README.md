@@ -37,7 +37,7 @@
  </tr>
  <tr>
   <td>
-   <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img src="assets/pong.gif width="100%"></a>
+   <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif" width="100%"> </img></a>
    
  </td>
  <td>
