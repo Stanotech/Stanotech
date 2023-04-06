@@ -37,10 +37,10 @@
  </tr>
  <tr>
   <td>
-   <a href="https://github.com/Stanotech/Django_blog"><img alt="pong" src="assets/blog.gif" width="100%"> </img></a>   
+   <a href="https://github.com/Stanotech/Django_blog"><img alt="pong" src="assets/blog.gif" width="50%"> </img></a>   
  </td>
  <td>
-  <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif" width="100%"> </img></a>   
+  <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif" width="50%"> </img></a>   
  </td>
 </tr>
 </table>
@@ -52,10 +52,10 @@
  </tr>
  <tr>
   <td width="50%">
-   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="100%"> </img></a>   
+   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="50%"> </img></a>   
  </td>
  <td width="50%">     
-  <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif" width="100%"> </img></a>
+  <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif" width="50%"> </img></a>
  </td>
 </tr>
 </table>
@@ -69,10 +69,10 @@
  </tr>
  <tr>
   <td>
-   <a href="https://github.com/Stanotech/perfection_training_checkio"><img alt="pong" src="assets/checkio.gif" width="100%"> </img></a> 
+   <a href="https://github.com/Stanotech/perfection_training_checkio"><img alt="pong" src="assets/checkio.gif" width="50%"> </img></a> 
  </td>
  <td>
-  <a href="https://github.com/Stanotech/seam_eraser_gcode"><img alt="pong" src="assets/gcode.jpg" width="100%"> </img></a> 
+  <a href="https://github.com/Stanotech/seam_eraser_gcode"><img alt="pong" src="assets/gcode.jpg" width="50%"> </img></a> 
  </td>
 </tr>
 </table>
