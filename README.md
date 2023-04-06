@@ -33,7 +33,7 @@
 <table>
  <tr>
     <th>Pong Multiplayer Online Game</th>
-    <th>GeforceNow</th>
+    <th>Vending machine for courts lights</th>
  </tr>
  <tr>
   <td width="50%">
