@@ -32,12 +32,27 @@
 <h3>PROJECTS</h3>
 <table>
  <tr>
+    <th>Django Blog</th>
     <th>Pong Multiplayer Online Game</th>
+ </tr>
+ <tr>
+  <td>
+   <a href="https://github.com/Stanotech/Django_blog"><img alt="pong" src="assets/blog.gif" width="100%"> </img></a>   
+ </td>
+ <td>
+  <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif" width="100%"> </img></a>   
+ </td>
+</tr>
+</table>
+
+<table>
+ <tr>
+    <th>Snake game</th>
     <th>Vending machine for courts lights</th>
  </tr>
  <tr>
   <td width="50%">
-   <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif" width="100%"> </img></a>   
+   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="100%"> </img></a>   
  </td>
  <td width="50%">     
   <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif" width="100%"> </img></a>
@@ -45,17 +60,19 @@
 </tr>
 </table>
 
+
+
 <table>
  <tr>
-    <th>Karol Klaweli</th>
-    <th>Katsail</th>
+    <th>Checkio</th>
+    <th>G-code modifier</th>
  </tr>
  <tr>
   <td>
-   <img alt="Karol Klaweli" src="assets/karolklaweli.gif" width="100%"> </img>
+   <a href="https://github.com/Stanotech/perfection_training_checkio"><img alt="pong" src="assets/checkio.gif" width="100%"> </img></a> 
  </td>
  <td>
-  <img alt="katsail" src="assets/katsail.gif" width="100%"> </img>
+  <a href="https://github.com/Stanotech/seam_eraser_gcode"><img alt="pong" src="assets/gcode.jpg" width="100%"> </img></a> 
  </td>
 </tr>
 </table>
