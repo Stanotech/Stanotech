@@ -30,8 +30,36 @@
 - ⚡ Fun fact: I love extreme sports and coconuts
 
 <h3>PROJECTS</h3>
+<table>
+ <tr>
+    <th>Dying Light 2</th>
+    <th>GeforceNow</th>
+ </tr>
+ <tr>
+  <td>
+   ![pong](https://user-images.githubusercontent.com/48159338/230331303-1aeafec2-e530-4a37-bb8e-d3386a1040a9.gif)
+ </td>
+ <td>
+  <img alt="geforce-now" src="assets/geforce-now.gif" width="100%"> </img>
+ </td>
+</tr>
+</table>
 
-![pong](https://user-images.githubusercontent.com/48159338/230331303-1aeafec2-e530-4a37-bb8e-d3386a1040a9.gif)
+<table>
+ <tr>
+    <th>Karol Klaweli</th>
+    <th>Katsail</th>
+ </tr>
+ <tr>
+  <td>
+   <img alt="Karol Klaweli" src="assets/karolklaweli.gif" width="100%"> </img>
+ </td>
+ <td>
+  <img alt="katsail" src="assets/katsail.gif" width="100%"> </img>
+ </td>
+</tr>
+</table>
+
 
 
 
