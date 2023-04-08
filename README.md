@@ -28,7 +28,7 @@
 
 
 - 🌱 I’m currently learning everything Django RestApi
-- ⚡ Fun fact: I love extreme sports and coconuts
+- ⚡ Fun facts: I love extreme sports, dancing and i'm healthy food freak
 
 <h3>PROJECTS</h3>
 <table>
