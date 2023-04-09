@@ -29,6 +29,7 @@
 
 - 🌱 I’m currently learning everything Django RestApi
 - ⚡ Fun facts: I love extreme sports, dancing and i'm healthy food freak
+- 🎮 Games which i love- logic games like Baba is you, Braid and ... Resident Evil 7 :D
 
 <h3>PROJECTS</h3>
 <table>
