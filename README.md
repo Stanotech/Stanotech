@@ -32,7 +32,7 @@
 
 
 
-- 🌱 I’m currently learning everything Django RestApi
+- 🌱 I’m currently learning Django RestApi, and bulding Django-shop
 - ⚡ Fun facts: I love extreme sports like kite-surfing, dancing and i'm healthy food freak
 - 🎮 Games which i love- logic games like Baba is you, Braid and ... Resident Evil 7 :D
 
