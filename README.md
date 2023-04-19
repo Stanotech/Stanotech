@@ -30,9 +30,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/standev )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strogala@gmail.com)
 
-<a href="https://linkedin.com/in/standev"><img alt="linkedin" src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]"> </img></a> 
-
-
 
 - 🌱 I’m currently learning Django RestApi, and bulding Django-shop
 - ⚡ Fun facts: I love extreme sports like kite-surfing, dancing and i'm healthy food freak
