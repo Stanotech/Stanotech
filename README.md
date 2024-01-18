@@ -41,10 +41,10 @@
  </tr>
  <tr>
   <td width="50%">
-   <a href="https://github.com/Stanotech/Django_blog"><img alt="pong" src="assets/blog.gif"> </img></a>   
+   <a href="[https://github.com/Stanotech/Django_blog](https://github.com/Stanotech/stock_market)"><img alt="pong" src="assets/Stock_market.gif"> </img></a>   
   </td>
   <td width="50%">
-  <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif"> </img></a>   
+  <a href="https://github.com/Stanotech/Django_blog"><img alt="pong" src="assets/blog.gif"> </img></a>   
   </td>
  </tr>
 </table>
