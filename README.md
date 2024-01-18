@@ -36,8 +36,8 @@
 <h3>PROJECTS</h3>
 <table>
  <tr>
-    <th>Django Blog</th>
-    <th>Pong Multiplayer Online Game</th>
+    <th>Stock Market Database</th>
+    <th>Dnajgo Blog</th>
  </tr>
  <tr>
   <td width="50%">
@@ -53,8 +53,8 @@
   
 <table style="margin:0 auto;">
  <tr>
-    <th>Snake game</th>
-    <th>Vending machine for courts lights</th>
+    <th>Pixelum.pl (frontend)</th>
+    <th>Multiplayer Pong Game</th>
  </tr>
  <tr style: width="100%">
   <td width="50%">
