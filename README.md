@@ -36,8 +36,8 @@
 <h3>PROJECTS</h3>
 <table>
  <tr>
-    <th>Stock Market Database</th>
-    <th>Dnajgo Blog</th>
+    <th>Stock Market Database (Django, Rest API)</th>
+    <th>Blog (Django)</th>
  </tr>
  <tr>
   <td width="50%">
@@ -54,7 +54,7 @@
 <table style="margin:0 auto;">
  <tr>
     <th>Pixelum.pl (frontend)</th>
-    <th>Multiplayer Pong Game</th>
+    <th>Multiplayer Pong Game (Python + PubNub)</th>
  </tr>
  <tr style: width="100%">
   <td width="50%">
@@ -69,8 +69,8 @@
 
 <table>
  <tr>
-    <th>Snake game</th>
-    <th>Checkio</th>
+    <th>Snake game (Python)</th>
+    <th>Checkio (Python)</th>
  </tr>
  <tr>
   <td width="50%">
