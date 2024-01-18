@@ -58,10 +58,10 @@
  </tr>
  <tr style: width="100%">
   <td width="50%">
-   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="100%"> </img></a>   
+   <a href="https://github.com/Stanotech/Pixelum"><img alt="pong" src="assets/pixelum.gif" width="100%"> </img></a>   
   </td>
   <td width="50%">     
-   <a href=https://github.com/Stanotech/VENDING-MACHINE-from-scratch><img alt="pong" src="assets/vending machine.gif" width="100%"> </img></a>
+   <a href="https://github.com/Stanotech/Pong-multiplayer-online"><img alt="pong" src="assets/pong.gif"> </img></a>
   </td>
  </tr>
 </table>
