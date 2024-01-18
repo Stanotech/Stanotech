@@ -69,15 +69,15 @@
 
 <table>
  <tr>
+    <th>Snake game</th>
     <th>Checkio</th>
-    <th>G-code modifier</th>
  </tr>
  <tr>
   <td width="50%">
-   <a href="https://github.com/Stanotech/perfection_training_checkio"><img alt="pong" src="assets/checkio.gif"> </img></a> 
+   <a href="https://github.com/Stanotech/Snake"><img alt="pong" src="assets/snake.gif" width="100%"> </img></a> 
   </td>
   <td width="50%">
-   <a href="https://github.com/Stanotech/seam_eraser_gcode"><img alt="pong" src="assets/gcode.jpg"> </img></a> 
+   <a href="https://github.com/Stanotech/perfection_training_checkio"><img alt="pong" src="assets/checkio.gif"> </img></a> 
   </td>
  </tr>
 </table>
