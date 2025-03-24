@@ -63,7 +63,7 @@ My <a href="https://github.com/Stanotech/Stanotech/blob/main/Stanis%C5%82aw%20Ro
 <h3>NEW PROJECTS</h3>
 
 Last recruitment tasks:  
--<a href="https://github.com/Stanotech/sofomo"> Python/ Django</a>- Geolocalization API
+-<a href="https://github.com/Stanotech/sofomo"> Python/ Django</a>- Geolocalization API  
 -<a href="https://github.com/Stanotech/symfony_web"> PHP/ Symfony</a>- API for managing users, roles, and posts, built using Symfony, Doctrine ORM, and API Platform.
 
 <h3>PROJECTS</h3>
