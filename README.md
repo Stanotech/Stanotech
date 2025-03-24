@@ -28,7 +28,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strogala@gmail.com)
 
 
-- 🌱 I’m currently learning Django RestApi, and bulding Django-shop
+- 🌱 I am currently deepening my knowledge about AI training and the pytorch library and I create applications for automatic submission of job applications, and application that examines certain variables using AI on the Polish stock exchange for individual companies. (Django, PyTorch, Web-scrapping)
 - ⚡ Fun facts: I love extreme sports like kite-surfing, dancing and i'm healthy food freak
 - 🎮 Games which i love- logic games like Baba is you, Braid and ... Resident Evil 7 :D
 
