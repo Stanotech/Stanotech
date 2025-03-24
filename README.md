@@ -65,7 +65,7 @@ My <a href="https://github.com/Stanotech/Stanotech/blob/main/Stanis%C5%82aw%20Ro
 Last recruitment tasks:  
 - <a href="https://github.com/Stanotech/sofomo"> Python/ Django</a>- Geolocalization API.  
 - <a href="https://github.com/Stanotech/symfony_web"> PHP/ Symfony</a>- API for managing users, roles, and posts, built using Symfony, Doctrine ORM, and API Platform.  
--<a href="https://github.com/Stanotech/recruitment_task1"> Python</a>- Just some simple script.  
+- <a href="https://github.com/Stanotech/recruitment_task1"> Python</a>- Just some simple script.  
   
 
 Last interesting projects:  
