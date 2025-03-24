@@ -1,4 +1,6 @@
 <p>Welcome to my page! </br> I'm Stan, backend developer from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628690.png" width="13"/> <b>Poznan, Poland</b>
+
+My <a href="https://github.com/Stanotech/Stanotech/blob/main/Stanis%C5%82aw%20Rogala.pdf">CV</a>   
      
 <h3>Things I use</h3>         
                   
