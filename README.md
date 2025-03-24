@@ -63,7 +63,7 @@ My <a href="https://github.com/Stanotech/Stanotech/blob/main/Stanis%C5%82aw%20Ro
 <h3>PROJECTS</h3>
 <table>
  <tr>
-    <th>Stock Market Database (Django, Rest API)</th>
+    <th>Stock Market- Markovitz theory portfolio creation  (Django, Rest API, AWS)</th>
     <th>Blog (Django)</th>
  </tr>
  <tr>
