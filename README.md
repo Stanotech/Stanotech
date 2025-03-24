@@ -62,7 +62,7 @@ My <a href="https://github.com/Stanotech/Stanotech/blob/main/Stanis%C5%82aw%20Ro
 
 <h3>NEW PROJECTS</h3>
 
-Last recruitment tasks:
+Last recruitment tasks:  
 -<a href="https://github.com/Stanotech/sofomo"> Python/ Django</a>- Geolocalization API
 
 <h3>PROJECTS</h3>
