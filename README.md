@@ -71,7 +71,7 @@ Last recruitment tasks:
 
 Last interesting projects:  
 - Stock marker analizer (Python/ Django/ Pytorch)-  using AI trained by data from web-scrapping. For now the repository is private.  
-- Job-bot (Python/ Django/ Web-scrappning)- app for applying jobs as first candidate by filters. For now the repository is private.
+- Job-bot (Python/ Django/ Web-scrappning)- app for applying jobs as first candidate by filters. Contrary to appearances, one of the most difficult tasks I have ever done. For now the repository is private, but I will share it for recruiter.
 - <a href="https://github.com/pymasterspl/reddit"> Reddit</a> (Python/ Django)- just for practising teamwork
 
 
